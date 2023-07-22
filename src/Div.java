@@ -3,6 +3,7 @@ public class Div {
 int a=100;
 int b=5;
 int r=a/b;
+//divided here...
 System.out.println(r);
     }
 }
