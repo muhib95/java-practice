@@ -1,5 +1,8 @@
 public class Div {
     public  static void  main(String[] args){
-System.out.println("Muhib Babu");
+int a=100;
+int b=5;
+int r=a/b;
+System.out.println(r);
     }
 }
